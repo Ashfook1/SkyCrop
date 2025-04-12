@@ -1,10 +1,10 @@
-# Kharif Knights - Smart Farming Solutions
+# SkyCrop - Smart Farming Solutions
 
 ![logo](images/logo.jpeg)
 
 ## Introduction
 
-Kharif Knights is a smart farming solution designed to empower farmers with data-driven insights and intelligent tools for optimizing crop health, managing resources, and improving yields. It provides real-time crop monitoring, pest and disease detection, and an AI-powered farm management assistant.
+SkyCrop is a Smart and convinient farming solution designed to empower farmers with data-driven insights and intelligent tools for optimizing crop health, managing resources, and improving yields. It provides real-time crop monitoring, pest and disease detection, and an AI-powered farm management assistant.
 
 ## Features
 
